@@ -1,0 +1,14 @@
+{
+  "name": "hello_world",
+  "version": "0.0.0",
+  "description": "Node.js Addons Example #2",
+  "main": "hello.js",
+  "scripts": {
+    "test": "node hello.js"
+  },
+  "author": "gl",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.12.1"
+  }
+}
